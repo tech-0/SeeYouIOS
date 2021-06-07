@@ -33,8 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-
-				<key>bundle-version</key>
+				<string>ipa-apps.me.Unc0verbeta</string>				<key>bundle-version</key>
 				<string>7.4.1</string>
 				<key>kind</key>
 				<string>software</string>
